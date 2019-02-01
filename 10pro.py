@@ -11,7 +11,7 @@ from googletrans import Translator
 import youtube_dl
 #TEGUH S- GUNAKAN BOTS DENGAN BIJAK
 #=============
-cl = LineClient("EMAIL","PASWOD")
+cl = LineClient("tgvmdwl@hi2.in","tgvmdwl@hi2.in")
 cl.log("Auth Token : " + str(cl.authToken))
 channel = LineChannel(cl)
 cl.log("Channel Access Token : " + str(channel.channelAccessToken))
@@ -20,7 +20,7 @@ lineSettings = cl.getSettings()
 mid = cl.getProfile().mid
 responsename1 = cl.getProfile().displayName
 
-ki = LineClient("EMAIL","PASWOD")
+ki = LineClient("usishvq@hi2.in","usishvq@hi2.in")
 ki.log("Auth Token : " + str(ki.authToken))
 channel1 = LineChannel(ki)
 ki.log("Channel Access Token : " + str(channel1.channelAccessToken))
@@ -29,7 +29,7 @@ lineSettings = ki.getSettings()
 Amid = ki.getProfile().mid
 responsename2 = ki.getProfile().displayName
 
-kk = LineClient("EMAIL","PASWOD")
+kk = LineClient("xqmygi@hi2.in","xqmygi@hi2.in")
 kk.log("Auth Token : " + str(kk.authToken))
 channel2 = LineChannel(kk)
 kk.log("Channel Access Token : " + str(channel2.channelAccessToken))
@@ -38,7 +38,7 @@ lineSettings = kk.getSettings()
 Bmid = ki.getProfile().mid
 responsename3 = ki.getProfile().displayName
 
-kc = LineClient("EMAIL","PASWOD")
+kc = LineClient("kbufno@hi2.in","kbufno@hi2.in")
 kc.log("Auth Token : " + str(kc.authToken))
 channel3 = LineChannel(kc)
 kc.log("Channel Access Token : " + str(channel3.channelAccessToken))
@@ -47,7 +47,7 @@ lineSettings = kc.getSettings()
 Cmid = kc.getProfile().mid
 responsename4 = kc.getProfile().displayName
 
-km = LineClient("EMAIL","PASWOD")
+km = LineClient("ubtnun@hi2.in","ubtnun@hi2.in")
 km.log("Auth Token : " + str(km.authToken))
 channel4 = LineChannel(km)
 km.log("Channel Access Token : " + str(channel4.channelAccessToken))
@@ -56,7 +56,7 @@ lineSettings = km.getSettings()
 Dmid = km.getProfile().mid
 responsename5 = km.getProfile().displayName
 
-kb = LineClient("EMAIL","PASWOD")
+kb = LineClient("kuvpquqg@hi2.in","kuvpquqg@hi2.in")
 kb.log("Auth Token : " + str(kb.authToken))
 channel5 = LineChannel(kb)
 kb.log("Channel Access Token : " + str(channel5.channelAccessToken))
@@ -65,7 +65,7 @@ lineSettings = kb.getSettings()
 Emid = kb.getProfile().mid
 responsename6 = kb.getProfile().displayName
 
-kn = LineClient("EMAIL","PASWOD")
+kn = LineClient("qfwtsn@hi2.in","qfwtsn@hi2.in")
 kn.log("Auth Token : " + str(kn.authToken))
 channel6 = LineChannel(kn)
 kn.log("Channel Access Token : " + str(channel6.channelAccessToken))
@@ -74,7 +74,7 @@ lineSettings = kn.getSettings()
 Fmid = kb.getProfile().mid
 responsename7 = kn.getProfile().displayName
 
-ko = LineClient("EMAIL","PASWOD")
+ko = LineClient("zrpkq@hi2.in","zrpkq@hi2.in")
 ko.log("Auth Token : " + str(ko.authToken))
 channel7 = LineChannel(ko)
 ko.log("Channel Access Token : " + str(channel7.channelAccessToken))
@@ -83,7 +83,7 @@ lineSettings = ko.getSettings()
 Gmid = ko.getProfile().mid
 responsename8 = kb.getProfile().displayName
 
-kw = LineClient("EMAIL","PASWOD")
+kw = LineClient("ilwlzcx@hi2.in","ilwlzcx@hi2.in")
 kw.log("Auth Token : " + str(kw.authToken))
 channel8 = LineChannel(kw)
 kw.log("Channel Access Token : " + str(channel8.channelAccessToken))
@@ -92,7 +92,7 @@ lineSettings = kw.getSettings()
 Hmid = kw.getProfile().mid
 responsename9 = kw.getProfile().displayName
 
-ke = LineClient("EMAIL","PASWOD")
+ke = LineClient("qywjxwc@hi2.in","qywjxwc@hi2.in")
 ke.log("Auth Token : " + str(ke.authToken))
 channel9 = LineChannel(ke)
 ke.log("Channel Access Token : " + str(channel9.channelAccessToken))
@@ -141,10 +141,10 @@ print("---LOGIN SUCCES---")
 
 poll = LinePoll(cl)
 call = cl
-creator = ["uf50d888821632d32461e37153ac775c0"]
-owner = ["uf50d888821632d32461e37153ac775c0"]
-admin = ["uf50d888821632d32461e37153ac775c0"]
-staff = ["uf50d888821632d32461e37153ac775c0"]
+creator = ["u30c2712c8e6129e59aaef4c2710d63e1"]
+owner = ["u30c2712c8e6129e59aaef4c2710d63e1"]
+admin = ["u30c2712c8e6129e59aaef4c2710d63e1"]
+staff = ["u30c2712c8e6129e59aaef4c2710d63e1"]
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
