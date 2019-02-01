@@ -101,7 +101,7 @@ lineSettings = ke.getSettings()
 Imid = ke.getProfile().mid
 responsename10 = ke.getProfile().displayName
 
-ky = LineClient("EMAIL","PASWOD")
+ky = LineClient("dvlkf@hi2.in","dvlkf@hi2.in")
 ky.log("Auth Token : " + str(ky.authToken))
 channel10 = LineChannel(ky)
 ky.log("Channel Access Token : " + str(channel10.channelAccessToken))
@@ -110,7 +110,7 @@ lineSettings = ky.getSettings()
 Jmid = ky.getProfile().mid
 responsename11 = ky.getProfile().displayName
 
-sw = LineClient("EMAIL","PASWOD")
+sw = LineClient("uoorecn@hi2.in","uoorecn@hi2.in")
 sw.log("Auth Token : " + str(sw.authToken))
 channel11 = LineChannel(sw)
 sw.log("Channel Access Token : " + str(channel11.channelAccessToken))
@@ -119,7 +119,7 @@ lineSettings = sw.getSettings()
 Zmid = sw.getProfile().mid
 responsename12 = sw.getProfile().displayName
 
-sx = LineClient("EMAIL","PASWOD")
+sx = LineClient("pojxhk@hi2.in","pojxhk@hi2.in")
 sx.log("Auth Token : " + str(sx.authToken))
 channel12 = LineChannel(sx)
 sx.log("Channel Access Token : " + str(channel12.channelAccessToken))
@@ -128,7 +128,7 @@ lineSettings = sx.getSettings()
 Xmid = sx.getProfile().mid
 responsename13 = sx.getProfile().displayName
 
-js = LineClient("EMAIL","PASWOD")
+js = LineClient("lfhtmi@hi2.in","lfhtmi@hi2.in")
 js.log("Auth Token : " + str(js.authToken))
 channel13 = LineChannel(js)
 js.log("Channel Access Token : " + str(channel13.channelAccessToken))
